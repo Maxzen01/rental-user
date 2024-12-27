@@ -2,7 +2,7 @@
 // Database connection details
 $servername = "localhost";
 $username = "root";
-$password = "1432"; // Replace with your actual password
+$password = ""; // Replace with your actual password
 $dbname = "rental_website"; // Replace with your database name
 
 // Create connection
