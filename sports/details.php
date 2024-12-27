@@ -2,7 +2,7 @@
 // Database connection
 $servername = "localhost";
 $username = "root";
-$password = "1432";
+$password = "";
 $dbname = "rental_website";
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
